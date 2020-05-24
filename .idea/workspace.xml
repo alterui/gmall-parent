@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="139faa0d-12bf-4e6c-897c-f88aced5b362" name="Default Changelist" comment="init">
+      <change beforePath="$PROJECT_DIR$/gmall/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall/src/main/java/com/lr/gmall/GmallApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall/src/test/java/com/lr/gmall/GmallApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/soft/learnSoftInUse/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\soft\learnSoftInUse\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1cKjZWefPVHr7wiKCpuq3QoU4nB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.sjhy.plugin.ui.GlobalConfigSettingPanel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ALTERUI\workspace\gmall-parent-1\gmall\src\main\java\com\lr\gmall" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GmallTmsApplication">
+    <configuration name="GmallAdminWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-admin-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.admin.GmallAdminWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lr.gmall.GmallApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallOmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-oms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.oms.GmallOmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallPmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-pms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.pms.GmallPmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallSmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-sms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.sms.GmallSmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallTmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-tms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lr.gmall.GmallTmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallUmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-ums" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.ums.GmallUmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="139faa0d-12bf-4e6c-897c-f88aced5b362" name="Default Changelist" comment="" />
+      <created>1590284234814</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590284234814</updated>
+      <workItem from="1590284236428" duration="7241000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1590287296302</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590287296302</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="69" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590287937681">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="69" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1590287937681" />
+    <state x="433" y="142" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1590307238745">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="433" y="142" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1590307238745" />
+    <state x="448" y="115" key="FileChooserDialogImpl" timestamp="1590307456979">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="448" y="115" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1590307456979" />
+    <state width="1485" height="219" key="GridCell.Tab.0.bottom" timestamp="1590308930196">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1485" height="219" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1590308930196" />
+    <state width="1485" height="219" key="GridCell.Tab.0.center" timestamp="1590308930196">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1485" height="219" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1590308930196" />
+    <state width="1485" height="219" key="GridCell.Tab.0.left" timestamp="1590308930196">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1485" height="219" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1590308930196" />
+    <state width="1485" height="219" key="GridCell.Tab.0.right" timestamp="1590308930196">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1485" height="219" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1590308930196" />
+    <state width="1485" height="219" key="GridCell.Tab.1.bottom" timestamp="1590308925813">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1485" height="219" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1590308925813" />
+    <state width="1485" height="219" key="GridCell.Tab.1.center" timestamp="1590308925813">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1485" height="219" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1590308925813" />
+    <state width="1485" height="219" key="GridCell.Tab.1.left" timestamp="1590308925812">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1485" height="219" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1590308925812" />
+    <state width="1485" height="219" key="GridCell.Tab.1.right" timestamp="1590308925813">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1485" height="219" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1590308925813" />
+    <state width="1485" height="219" key="GridCell.Tab.2.bottom" timestamp="1590308915828">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1485" height="219" key="GridCell.Tab.2.bottom/0.0.1536.834@0.0.1536.834" timestamp="1590308915828" />
+    <state width="1485" height="219" key="GridCell.Tab.2.center" timestamp="1590308915828">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1485" height="219" key="GridCell.Tab.2.center/0.0.1536.834@0.0.1536.834" timestamp="1590308915828" />
+    <state width="1485" height="219" key="GridCell.Tab.2.left" timestamp="1590308915828">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1485" height="219" key="GridCell.Tab.2.left/0.0.1536.834@0.0.1536.834" timestamp="1590308915828" />
+    <state width="1485" height="219" key="GridCell.Tab.2.right" timestamp="1590308915828">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1485" height="219" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1590308915828" />
+    <state width="244" height="548" key="HiddenNamespacesPopup" timestamp="1590287974224">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="244" height="548" key="HiddenNamespacesPopup/0.0.1536.834@0.0.1536.834" timestamp="1590287974224" />
+    <state x="105" y="0" key="SettingsEditor" timestamp="1590310680912">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="105" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1590310680912" />
+    <state x="261" y="72" key="Vcs.Push.Dialog.v2" timestamp="1590287298210">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="261" y="72" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1590287298210" />
+    <state x="409" y="92" width="717" height="650" key="find.popup" timestamp="1590286179747">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="409" y="92" width="717" height="650" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1590286179747" />
+    <state x="0" y="0" key="new project wizard" timestamp="1590306992065">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1590306992065" />
+  </component>
+</project>

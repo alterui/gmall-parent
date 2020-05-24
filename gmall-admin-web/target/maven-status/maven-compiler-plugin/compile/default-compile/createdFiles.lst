@@ -1,0 +1,17 @@
+com\atguigu\gmall\admin\pms\controller\PmsBrandController.class
+com\atguigu\gmall\admin\utils\JwtTokenUtil.class
+com\atguigu\gmall\admin\ums\vo\UmsAdminParam.class
+com\atguigu\gmall\admin\pms\controller\PmsProductCategoryController.class
+com\atguigu\gmall\admin\pms\controller\PmsProductController.class
+com\atguigu\gmall\admin\config\GmallSwagger2Config.class
+com\atguigu\gmall\admin\oms\component\OssCompent.class
+com\atguigu\gmall\admin\aop\DataVaildAspect.class
+com\atguigu\gmall\admin\aop\GlobalExceptionHandler.class
+com\atguigu\gmall\admin\ums\controller\UmsMemberLevelController.class
+com\atguigu\gmall\admin\pms\controller\PmsProductAttributeController.class
+com\atguigu\gmall\admin\pms\controller\PmsProductAttributeCategoryController.class
+com\atguigu\gmall\admin\pms\controller\PmsSkuStockController.class
+com\atguigu\gmall\admin\ums\controller\UmsAdminController.class
+com\atguigu\gmall\admin\ums\vo\UmsAdminLoginParam.class
+com\atguigu\gmall\admin\GmallAdminWebApplication.class
+com\atguigu\gmall\admin\oms\controller\OssController.class
