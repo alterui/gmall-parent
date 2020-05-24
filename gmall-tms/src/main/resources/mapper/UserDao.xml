@@ -52,8 +52,8 @@
 
     <!--新增所有列-->
     <insert id="insert" keyProperty="id" useGeneratedKeys="true">
-        insert into mmall.user(user_name, user_age, city, create_time)
-        values (#{userName}, #{userAge}, #{city}, #{createTime})
+        insert into mmall.user(user_name)
+        values (#{userName})
     </insert>
 
     <!--通过主键修改数据-->

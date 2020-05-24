@@ -1,5 +1,8 @@
 package com.lr.gmall.config.entity;
 
+import lombok.Data;
+
+import java.sql.Timestamp;
 import java.util.Date;
 import java.io.Serializable;
 
@@ -9,6 +12,7 @@ import java.io.Serializable;
  * @author alterui
  * @since 2020-05-24 16:58:11
  */
+@Data
 public class User implements Serializable {
     private static final long serialVersionUID = 547359875100212931L;
     /**
@@ -26,47 +30,8 @@ public class User implements Serializable {
     
     private String city;
     
-    private Date createTime;
+    private Timestamp createTime;
 
 
-    public Integer getId() {
-        return id;
-    }
-
-    public void setId(Integer id) {
-        this.id = id;
-    }
-
-    public String getUserName() {
-        return userName;
-    }
-
-    public void setUserName(String userName) {
-        this.userName = userName;
-    }
-
-    public Integer getUserAge() {
-        return userAge;
-    }
-
-    public void setUserAge(Integer userAge) {
-        this.userAge = userAge;
-    }
-
-    public String getCity() {
-        return city;
-    }
-
-    public void setCity(String city) {
-        this.city = city;
-    }
-
-    public Date getCreateTime() {
-        return createTime;
-    }
-
-    public void setCreateTime(Date createTime) {
-        this.createTime = createTime;
-    }
 
 }
