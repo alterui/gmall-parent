@@ -9,8 +9,8 @@ import javax.annotation.Resource;
 /**
  * (User)表控制层
  *
- * @author alterui
- * @since 2020-05-24 16:58:13
+ * @author liurui
+ * @since 2020-05-25 17:34:22
  */
 @RestController
 @RequestMapping("user")
@@ -30,11 +30,6 @@ public class UserController {
     @GetMapping("selectOne")
     public User selectOne(Integer id) {
         return this.userService.queryById(id);
-    }
-
-    @PostMapping("insert")
-    public void insertUser(@RequestBody User user) {
-        userService.insert(user);
     }
 
 }

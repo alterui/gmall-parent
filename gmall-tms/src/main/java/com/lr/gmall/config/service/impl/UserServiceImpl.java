@@ -3,9 +3,7 @@ package com.lr.gmall.config.service.impl;
 import com.lr.gmall.config.entity.User;
 import com.lr.gmall.config.dao.UserDao;
 import com.lr.gmall.config.service.UserService;
-import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
-import org.springframework.transaction.annotation.Transactional;
 
 import javax.annotation.Resource;
 import java.util.List;
@@ -13,11 +11,10 @@ import java.util.List;
 /**
  * (User)表服务实现类
  *
- * @author alterui
- * @since 2020-05-24 16:58:13
+ * @author liurui
+ * @since 2020-05-25 17:34:21
  */
 @Service("userService")
-@Slf4j
 public class UserServiceImpl implements UserService {
     @Resource
     private UserDao userDao;
@@ -52,16 +49,8 @@ public class UserServiceImpl implements UserService {
      * @return 实例对象
      */
     @Override
-
     public User insert(User user) {
-
-
-
-
-            this.userDao.insert(user);
-            int i = 10/0;
-
-
+        this.userDao.insert(user);
         return user;
     }
 
